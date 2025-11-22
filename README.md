@@ -22,10 +22,11 @@ pip install requests rich
 python iran_network_check.py
 
 
-```
-
 ### Continuous Monitoring
 
 python iran_network_check.py --watch --interval 60
 
 # Checks every 60 seconds and refreshes the screen
+
+
+```
