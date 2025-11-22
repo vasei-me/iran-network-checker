@@ -1,0 +1,38 @@
+{
+  "ping_targets": [
+    "8.8.8.8",
+    "1.1.1.1",
+    "4.2.2.4",
+    "178.22.122.100",
+    "185.51.200.1"
+  ],
+  "http_targets": [
+    "https://digikala.com",
+    "https://snapp.ir",
+    "https://divar.ir",
+    "https://bamilo.com",
+    "https://academy.mci.ir",
+    "https://google.com",
+    "https://wikipedia.org",
+    "http://httpbin.org/ip",
+    "https://checkip.amazonaws.com"
+  ],
+  "timeouts": {
+    "ping": 8,
+    "http": 15
+  },
+  "tcp_ports": [
+    {
+      "host": "8.8.8.8",
+      "port": 53
+    },
+    {
+      "host": "1.1.1.1",
+      "port": 53
+    },
+    {
+      "host": "4.2.2.4",
+      "port": 53
+    }
+  ]
+}
