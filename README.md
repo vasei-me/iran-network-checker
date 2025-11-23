@@ -3,6 +3,8 @@
 An advanced, modern tool to check the real state of internet connectivity in Iran  
 Automatically detects filtering, VPN interference, MCI restrictions, and more.
 
+![ghtrend demo](assets/sun.png)
+
 ### Features
 
 - Ping tests to Google DNS, Cloudflare, and Iranian servers
